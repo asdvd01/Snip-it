@@ -44,3 +44,5 @@ The second (and maybe less obvious..) reason is that if two sentences have a goo
 #Limitations
 1. Doesn't work right for research papers
 2. The accuracy rate is 70%
+
+Will be uploading a executable version for windows soon.
