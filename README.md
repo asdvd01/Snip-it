@@ -35,3 +35,12 @@ We do that by splitting our text into paragraphs, and then we choose the best se
 There are two main reasons why this algorithm works:.
 The first (and obvious) reason is that a paragraph is a logical atomic unit of the text.
 The second (and maybe less obvious..) reason is that if two sentences have a good intersection, they probably holds the same information.
+
+#Usage
+1. Complile the summ-it_GUI.py
+2. Text box appears, place your text hit
+3. Hit summarize to get the summary of the text
+
+#Limitations
+1. Doesn't work right for research papers
+2. The accuracy rate is 70%
